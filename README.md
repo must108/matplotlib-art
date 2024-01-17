@@ -2,4 +2,4 @@
 
 cool data visualization with matplotlib.
 
-![color scatter](colorscatter.png)
+<img src="colorfulscatter.png"  width="100px" height="100px">
